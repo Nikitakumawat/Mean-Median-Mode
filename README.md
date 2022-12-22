@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="958" alt="mean median mode screen" src="https://user-images.githubusercontent.com/35212192/209075127-dee4d93b-2d2c-4ca6-9ee7-a6ab3da6e81a.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
